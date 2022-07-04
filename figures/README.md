@@ -7,6 +7,11 @@ In this folder you will find full-size versions of the figures in the article:
 :-------------------------:|:-------------------------:
 <img src="fig2_left.png" alt="Fig1" style="height: 500px; width:650px;"/> | <img src="fig2_right.png" alt="Fig1" style="height: 500px; width:650px;"/>
 
+<p float="center">
+  <img src="fig2_left.png" alt="Fig1" style="height: 500px; width:650px;"/>
+  <img src="fig2_right.png" alt="Fig1" style="height: 500px; width:650px;"/>
+</p>
+
 <img src="fig3.png" alt="Fig3" style="height: 300px; width:600px;"/>
 
 <img src="fig4_fridge1.png" alt="Fig4" style="height: 500px; width:550px;"/>
