@@ -4,4 +4,4 @@ In this folder you will find full-size versions of the figures in the article:
 
 ![Fig1](fig1.png)
 
-<img src="fig2.png" alt="Fig2" style="height: 100px; width:100px;"/>
+<img src="fig3.png" alt="Fig3" style="height: 100px; width:100px;"/>
