@@ -53,7 +53,7 @@ In this folder you will find full-size versions of the figures in the article:
 
 <p float="center">
 <img src="Q2/fig8_fridge3_ISOF.png" alt="Fig8" style="height: 200px; width:200px;"/>
-<img src="Q2/fig8_fridge3_OC.png" alt="Fig8" style="height: 200px; width:200px;"/>
+<img src="Q2/fig8_fridge3_OC_SVM.png" alt="Fig8" style="height: 200px; width:200px;"/>
 <img src="Q2/fig8_fridge3_LSTM.png" alt="Fig8" style="height: 200px; width:200px;"/>
   <img src="Q2/fig8_fridge3_LOF.png" alt="Fig8" style="height: 200px; width:200px;"/>
 </p>
@@ -67,5 +67,22 @@ In this folder you will find full-size versions of the figures in the article:
 <img src="Q2/fig8_fridge3_LSTM-MS.png" alt="Fig8" style="height: 200px; width:200px;"/>
 <img src="Q2/fig8_fridge3_basic_statistics.png" alt="Fig8" style="height: 200px; width:200px;"/>
   <br><b>Fig8.</b> Variation of the F1 score with the duration of the training sub-sequence. The AR and ARIMA method did not complete the training with all the periods.
+</p>
+<br>&nbsp;
+
+<p float="center">
+<img src="Q3/fig9_fridge1_ISOF.png" alt="Fig9" style="height: 200px; width:200px;"/>
+<img src="Q3/fig9_fridge1_OC_SVM.png" alt="Fig9" style="height: 200px; width:200px;"/>
+<img src="Q3/fig9_fridge1_LSTM.png" alt="Fig9" style="height: 200px; width:200px;"/>
+<img src="Q3/fig9_fridge1_LOF.png" alt="Fig9" style="height: 200px; width:200px;"/>
+</p>
+<p float="center">
+<img src="Q3/fig9_fridge1_GRU.png" alt="Fig9" style="height: 200px; width:200px;"/>
+<img src="Q3/fig9_fridge1_GRU-AE.png" alt="Fig9" style="height: 200px; width:200px;"/>
+<img src="Q3/fig9_fridge1_LSTM-AE.png" alt="Fig9" style="height: 200px; width:200px;"/>
+<img src="Q3/fig9_fridge1_GRU-MS.png" alt="Fig9" style="height: 200px; width:200px;"/>
+<p float="center">
+<img src="Q3/fig9_fridge1_LSTM-MS.png" alt="Fig9" style="height: 200px; width:200px;"/>
+  <br><b>Fig9.</b> Variation of the  F1 score with the size (in periods) of the sliding window. The AR and ARIMA method did not complete the training with all the periods.
 </p>
 <br>&nbsp;
