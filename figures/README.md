@@ -2,4 +2,6 @@
 
 In this folder you will find full-size versions of the figures in the article:
 
-![This is an image](fig1.png)
+![Fig1](fig1.png)
+
+<img src="fig2.png" alt="Fig2" style="height: 100px; width:100px;"/>
