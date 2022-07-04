@@ -99,5 +99,17 @@ In this folder you will find full-size versions of the figures in the article:
 <br><b>Fig10.</b> Comparison of the generalization performance of the top-5 methods. The orange bar represents the baseline F1 value (i.e., training and testing done on the same dataset), the blue bar denotes the F1 value achieved by fine tuning the threshold on the validation set of the target appliance, and the green bar shows the performances obtained using the trained algorithm without fine tuning.
 </p>
 <br>&nbsp;
-
+<p float="center">
+<img src="Q5/ISOF.png" alt="Fig1" style="height: 270px; width:486px;"/>
+<img src="Q5/ISOF_2.png" alt="Fig1" style="height: 270px; width:486px;"/>
+</p>
+<p float="center">
+<img src="Q5/LSTM-AE.png" alt="Fig1" style="height: 270px; width:486px;"/>
+<img src="Q5/LSTM-AE_2.png" alt="Fig1" style="height: 270px; width:486px;"/>
+<p float="center">
+<img src="Q5/OCSVM.png" alt="Fig1" style="height: 270px; width:486px;"/>
+<img src="Q5/OCSVM_2.png" alt="Fig1" style="height: 270px; width:486px;"/>
+<br><b>Fig11.</b> Qualitative analysis of the predictions of three methods on Fridge1: ISOF, LSTM-AE, OC SVM. ISOF (top) is more robust to the variations of the duration of the cycles, while the others show a weakness in the identification of the anomalous points, in fact, LSTM-AE (middle) and OC SVM (bottom) label numerous normal points as anomalous.
+</p>
+<br>&nbsp;
 
