@@ -52,20 +52,20 @@ In this folder you will find full-size versions of the figures in the article:
 <br>&nbsp;
 
 <p float="center">
-<img src="fig8_fridge3_ISOF.png" alt="Fig8" style="height: 200px; width:200px;"/>
-<img src="fig8_fridge3_OC.png" alt="Fig8" style="height: 200px; width:200px;"/>
-<img src="fig8_fridge3_LSTM.png" alt="Fig8" style="height: 200px; width:200px;"/>
-  <img src="fig8_fridge3_LOF.png" alt="Fig8" style="height: 200px; width:200px;"/>
+<img src="Q2/fig8_fridge3_ISOF.png" alt="Fig8" style="height: 200px; width:200px;"/>
+<img src="Q2/fig8_fridge3_OC.png" alt="Fig8" style="height: 200px; width:200px;"/>
+<img src="Q2/fig8_fridge3_LSTM.png" alt="Fig8" style="height: 200px; width:200px;"/>
+  <img src="Q2/fig8_fridge3_LOF.png" alt="Fig8" style="height: 200px; width:200px;"/>
 </p>
 <p float="center">
-<img src="fig8_fridge3_GRU.png" alt="Fig8" style="height: 200px; width:200px;"/>
-<img src="fig8_fridge3_GRU-AE.png" alt="Fig8" style="height: 200px; width:200px;"/>
-<img src="fig8_fridge3_LSTM-AE.png" alt="Fig8" style="height: 200px; width:200px;"/>
-<img src="fig8_fridge3_GRU-MS.png" alt="Fig8" style="height: 200px; width:200px;"/>
+<img src="Q2/fig8_fridge3_GRU.png" alt="Fig8" style="height: 200px; width:200px;"/>
+<img src="Q2/fig8_fridge3_GRU-AE.png" alt="Fig8" style="height: 200px; width:200px;"/>
+<img src="Q2/fig8_fridge3_LSTM-AE.png" alt="Fig8" style="height: 200px; width:200px;"/>
+<img src="Q2/fig8_fridge3_GRU-MS.png" alt="Fig8" style="height: 200px; width:200px;"/>
 </p>
 <p float="center">
-<img src="fig8_fridge3_LSTM-MS.png" alt="Fig8" style="height: 200px; width:200px;"/>
-<img src="fig8_fridge3_basic_statistics.png" alt="Fig8" style="height: 200px; width:200px;"/>
+<img src="Q2/fig8_fridge3_LSTM-MS.png" alt="Fig8" style="height: 200px; width:200px;"/>
+<img src="Q2/fig8_fridge3_basic_statistics.png" alt="Fig8" style="height: 200px; width:200px;"/>
   <br><b>Fig8.</b> Variation of the F1 score with the duration of the training sub-sequence. The AR and ARIMA method did not complete the training with all the periods.
 </p>
 <br>&nbsp;
