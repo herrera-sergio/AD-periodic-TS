@@ -4,3 +4,7 @@ In this folder you will find the complete information about all the performed ex
 
 
 <embed src="performance_summary.pdf" type="application/pdf">
+
+
+<object data="performance_summary.pdf" type="application/pdf" width="100%"> 
+</object>
