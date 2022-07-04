@@ -2,14 +2,10 @@
 
 In this folder you will find the complete information about all the performed experiments:
 
-[embed]https://raw.githubusercontent.com/degoes-consulting/lambdaconf-2015/master/speakers/jdegoes/intro-purescript/presentation.pdf[/embed]
+[embed]https://raw.githubusercontent.com/herrera-sergio/AD-periodic-TS/tree/master/performance/performance_summary.pdf[/embed]
 
-https://raw.githubusercontent.com/degoes-consulting/lambdaconf-2015/master/speakers/jdegoes/intro-purescript/presentation.pdf
+https://raw.githubusercontent.com/herrera-sergio/AD-periodic-TS/tree/master/performance/performance_summary.pdf
 
-<embed src="https://raw.githubusercontent.com/degoes-consulting/lambdaconf-2015/master/speakers/jdegoes/intro-purescript/presentation.pdf" type="application/pdf">
+<embed src="https://raw.githubusercontent.com/herrera-sergio/AD-periodic-TS/tree/master/performance/performance_summary.pdf" type="application/pdf">
 
-
-
-<object data="https://raw.githubusercontent.com/degoes-consulting/lambdaconf-2015/master/speakers/jdegoes/intro-purescript/presentation.pdf" type="application/pdf" width="100%"> 
-</object>
 
