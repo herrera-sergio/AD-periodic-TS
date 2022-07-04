@@ -23,6 +23,6 @@ In this folder you will find full-size versions of the figures in the article:
 <img src="fig6.png" alt="Fig6" style="height: 300px; width:600px;"/>
 
 
-<img src="fig7_fridge1.png" alt="Fig7" style="height: 300px; width:600px;"/>
-<img src="fig7_fridge2.png" alt="Fig7" style="height: 300px; width:600px;"/>
-<img src="fig7_fridge3.png" alt="Fig7" style="height: 300px; width:600px;"/>
+<img src="fig7_fridge1.png" alt="Fig7" style="height: 500px; width:650px;"/>
+<img src="fig7_fridge2.png" alt="Fig7" style="height: 500px; width:650px;"/>
+<img src="fig7_fridge3.png" alt="Fig7" style="height: 500px; width:650px;"/>
