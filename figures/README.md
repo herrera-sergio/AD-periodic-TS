@@ -86,3 +86,18 @@ In this folder you will find full-size versions of the figures in the article:
   <br><b>Fig9.</b> Variation of the  F1 score with the size (in periods) of the sliding window. The AR and ARIMA method did not complete the training with all the periods.
 </p>
 <br>&nbsp;
+<p float="center">
+<img src="Q4/fig10_fridge1_on_fridge2.png" alt="Fig10" style="height: 200px; width:500px;"/>
+<img src="Q4/fig10_fridge1_on_fridge3.png" alt="Fig10" style="height: 200px; width:500px;"/>
+</p>
+<p float="center">
+<img src="Q4/fig10_fridge2_on_fridge1.png" alt="Fig10" style="height: 200px; width:500px;"/>
+<img src="Q4/fig10_fridge2_on_fridge3.png" alt="Fig10" style="height: 200px; width:500px;"/>
+<p float="center">
+<img src="Q4/fig10_fridge3_on_fridge1.png" alt="Fig10" style="height: 200px; width:500px;"/>
+<img src="Q4/fig10_fridge3_on_fridge2.png" alt="Fig10" style="height: 200px; width:500px;"/>
+<br><b>Fig10.</b> Comparison of the generalization performance of the top-5 methods. The orange bar represents the baseline F1 value (i.e., training and testing done on the same dataset), the blue bar denotes the F1 value achieved by fine tuning the threshold on the validation set of the target appliance, and the green bar shows the performances obtained using the trained algorithm without fine tuning.
+</p>
+<br>&nbsp;
+
+
