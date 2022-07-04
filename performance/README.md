@@ -8,3 +8,7 @@ In this folder you will find the complete information about all the performed ex
 
 <object data="performance_summary.pdf" type="application/pdf" width="100%"> 
 </object>
+
+[embed]performance_summary.pdf[/embed]
+
+[embed]https://github.com/herrera-sergio/AD-periodic-TS/blob/master/performance/performance_summary.pdf[/embed]
