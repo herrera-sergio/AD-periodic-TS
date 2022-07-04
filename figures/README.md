@@ -6,7 +6,7 @@ In this folder you will find full-size versions of the figures in the article:
 <img src="fig1.png" alt="Fig1" style="height: 500px; width:650px;"/>
 <br><b>Fig1.</b> Example of the fridge energy consumption data series. The time series is formed by subsequent ON-OFF cycles and is quasi-periodical.
 </p>
-
+<br>&nbsp;
 
 <p float="center">
   <img src="fig2_left.png" alt="Fig1" style="height: 350px; width:500px;"/>
@@ -18,6 +18,7 @@ In this folder you will find full-size versions of the figures in the article:
 <img src="fig3.png" alt="Fig3" style="height: 300px; width:600px;"/>
   <br><b>Fig3.</b> The interface of the GT anomaly annotator at work on the fridge time series. The user can specify the anomalies and add  meta-data to them.  The user has annotated the currently selected GT anomaly, shown in red, with the <i>Continuous ON state</i> label.
 </p>
+<br>&nbsp;
 
 <p float="center">
 <img src="fig4_fridge1.png" alt="Fig4" style="height: 270px; width:300px;"/>
@@ -25,6 +26,7 @@ In this folder you will find full-size versions of the figures in the article:
 <img src="fig4_fridge3.png" alt="Fig4" style="height: 270px; width:300px;"/>
   <br><b>Fig4.</b> The anomaly type distribution on the three fridge energy consumption data series.
 </p>
+<br>&nbsp;
 
 <p float="center">
 <img src="fig5_fridge1.png" alt="Fig5" style="height: 240px; width:300px;"/>
@@ -32,11 +34,13 @@ In this folder you will find full-size versions of the figures in the article:
 <img src="fig5_fridge3.png" alt="Fig5" style="height: 240px; width:300px;"/>
   <br><b>Fig5.</b> The anomaly duration distribution on the fridge energy consumption data sets.  The distributions of Fridge1 and Fridge2 are centered close the time series period, which suggests the presence of anomalies shorter than an ON-OFF cycle whereas the distribution of Fridge3 is centered around values higher than the mean ON-OFF cycle duration.
 </p>
+<br>&nbsp;
 
 <p float="center">
 <img src="fig6.png" alt="Fig6" style="height: 420px; width:600px;"/>
   <br><b>Fig6.</b> Comparison of the  performances of all the algorithms on all the  appliances and across all the training duration periods and window sizes. The methods are ordered in descending order of the median values of the F1 score.  
 </p>
+<br>&nbsp;
 
 <p float="center">
 <img src="fig7_fridge1.png" alt="Fig7" style="height: 210px; width:300px;"/>
@@ -44,3 +48,4 @@ In this folder you will find full-size versions of the figures in the article:
 <img src="fig7_fridge3.png" alt="Fig7" style="height: 210px; width:300px;"/>
   <br><b>Fig7.</b> Break down of the performance of all the algorithms by appliance. The methods are ordered by descending median value of the F1 score. 
 </p>
+<br>&nbsp;
