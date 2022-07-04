@@ -13,6 +13,7 @@ In this folder you will find full-size versions of the figures in the article:
   <img src="fig2_right.png" alt="Fig1" style="height: 350px; width:500px;"/>
   <br><b>Fig2.</b> The power spectrum computed by the periodicity pre-processor (right) on the fridge energy consumption time series (left). The period detected for an ON-OFF cycle is about 80 minutes for the analyzed data set.
 </p>
+<br>&nbsp;
 
 <p float="center">
 <img src="fig3.png" alt="Fig3" style="height: 300px; width:600px;"/>
@@ -47,5 +48,24 @@ In this folder you will find full-size versions of the figures in the article:
 <img src="fig7_fridge2.png" alt="Fig7" style="height: 210px; width:300px;"/>
 <img src="fig7_fridge3.png" alt="Fig7" style="height: 210px; width:300px;"/>
   <br><b>Fig7.</b> Break down of the performance of all the algorithms by appliance. The methods are ordered by descending median value of the F1 score. 
+</p>
+<br>&nbsp;
+
+<p float="center">
+<img src="fig8_fridge3_ISOF.png" alt="Fig8" style="height: 200px; width:200px;"/>
+<img src="fig8_fridge3_OC.png" alt="Fig8" style="height: 200px; width:200px;"/>
+<img src="fig8_fridge3_LSTM.png" alt="Fig8" style="height: 200px; width:200px;"/>
+  <img src="fig8_fridge3_LOF.png" alt="Fig8" style="height: 200px; width:200px;"/>
+</p>
+<p float="center">
+<img src="fig8_fridge3_GRU.png" alt="Fig8" style="height: 200px; width:200px;"/>
+<img src="fig8_fridge3_GRU-AE.png" alt="Fig8" style="height: 200px; width:200px;"/>
+<img src="fig8_fridge3_LSTM-AE.png" alt="Fig8" style="height: 200px; width:200px;"/>
+<img src="fig8_fridge3_GRU-MS.png" alt="Fig8" style="height: 200px; width:200px;"/>
+</p>
+<p float="center">
+<img src="fig8_fridge3_LSTM-MS.png" alt="Fig8" style="height: 200px; width:200px;"/>
+<img src="fig8_fridge3_basic_statistics.png" alt="Fig8" style="height: 200px; width:200px;"/>
+  <br><b>Fig8.</b> Variation of the F1 score with the duration of the training sub-sequence. The AR and ARIMA method did not complete the training with all the periods.
 </p>
 <br>&nbsp;
