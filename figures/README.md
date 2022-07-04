@@ -4,8 +4,8 @@ In this folder you will find full-size versions of the figures in the article:
 
 <p float="center">
 <img src="fig1.png" alt="Fig1" style="height: 500px; width:650px;"/>
-Fig1. Example of the fridge energy consumption data series. The time series is formed by subsequent ON-OFF cycles and is quasi-periodical.
 </p>
+Fig1. Example of the fridge energy consumption data series. The time series is formed by subsequent ON-OFF cycles and is quasi-periodical.
 
 <p float="center">
   <img src="fig2_left.png" alt="Fig1" style="height: 350px; width:500px;"/>
