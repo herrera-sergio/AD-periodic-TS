@@ -53,7 +53,7 @@ In this folder you will find full-size versions of the figures in the article:
 
 <p float="center">
 <img src="Q2/fig8_fridge3_ISOF.png" alt="Fig8" style="height: 200px; width:200px;"/>
-<img src="Q2/fig8_fridge3_OC.png" alt="Fig8" style="height: 200px; width:200px;"/>
+<img src="Q2/fig8_fridge3_OC_SVM.png" alt="Fig8" style="height: 200px; width:200px;"/>
 <img src="Q2/fig8_fridge3_LSTM.png" alt="Fig8" style="height: 200px; width:200px;"/>
   <img src="Q2/fig8_fridge3_LOF.png" alt="Fig8" style="height: 200px; width:200px;"/>
 </p>
