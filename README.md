@@ -5,3 +5,4 @@ The diffusion of domotics solutions and of smart appliances and meters enables t
 This repository contains the material of the paper, the material is as follows:
 * Performance folder: contains the summary of the performances of the 144 experiments.
 * Figures folder: contains full-size version of the figures included in the article.
+* All Figures folder: contains full-size version of the figures that were not included in the article but that were generated to respond Q2 and Q3.
