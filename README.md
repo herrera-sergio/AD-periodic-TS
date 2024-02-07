@@ -6,3 +6,20 @@ This repository contains the material of the paper, the material is as follows:
 * Performance folder: contains the summary of the performances of the 144 experiments.
 * Figures folder: contains full-size version of the figures included in the article.
 * All Figures folder: contains full-size version of the figures that were not included in the article but that were generated to respond Q2 and Q3.
+* Code Folder: Contains the code used for the experiments
+
+## Cite this work
+If you use our code or wish to refer it, please use the following BibTex entry.
+
+```
+@article{zangrando2022anomaly,
+  title={Anomaly detection in quasi-periodic energy consumption data series: a comparison of algorithms},
+  author={Zangrando, Niccol{\`o} and Fraternali, Piero and Petri, Marco and Pinciroli Vago, Nicol{\`o} Oreste and Herrera Gonz{\'a}lez, Sergio Luis},
+  journal={Energy Informatics},
+  volume={5},
+  number={4},
+  pages={1--22},
+  year={2022},
+  publisher={SpringerOpen}
+}
+```
